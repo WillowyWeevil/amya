@@ -52,3 +52,12 @@ img{
     padding:10px;
     place-items: center;
 }
+
+@media(maxwidth:600px){
+    .chunk{
+        margin-right: -100px;
+    }
+    .top-counter{
+        margin-right:-100px;
+    }
+}
